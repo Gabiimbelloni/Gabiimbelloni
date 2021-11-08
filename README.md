@@ -2,7 +2,7 @@
 
 ## Meus contatos:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielle-imbelloni-gouvea/)](https://www.linkedin.com/in/gabrielle-imbelloni-gouvea/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gabi.gouveaim@gmail.com)](mailto: gabi.gouveaim@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielle-imbelloni-gouvea/)](https://www.linkedin.com/in/gabrielle-imbelloni-gouvea/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gabi.gouveaim@gmail.com)](mailto:gabi.gouveaim@gmail.com)
 <!--
 **Gabiimbelloni/Gabiimbelloni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
